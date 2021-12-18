@@ -1,6 +1,6 @@
 # Titanic-Kaggle
 
-This is my first kernel at Kaggle. I choosed the Titanic competition because it's a very good way to introduce feature engineering and classification models.
+This is my first kernel on Kaggle. I choosed the Titanic competition because it's a very good way to introduce feature engineering and classification models.
 
 **objective** : Predict if a passenger can survived on the titanic or not.
 
